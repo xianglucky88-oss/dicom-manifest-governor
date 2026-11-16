@@ -1,0 +1,23 @@
+{
+  "instances": [
+    {
+      "patient": "P1",
+      "study": "ST1",
+      "series": "SE1",
+      "instance": "I1",
+      "modality": "CT",
+      "private": false
+    },
+    {
+      "patient": "P1",
+      "study": "ST1",
+      "series": "SE1",
+      "instance": "I2",
+      "modality": "CT",
+      "private": true
+    }
+  ],
+  "allowed_modalities": [
+    "CT"
+  ]
+}
