@@ -1,18 +1,18 @@
 {
   "instances": [
     {
-      "patient": "P1",
-      "study": "ST1",
-      "series": "SE1",
-      "instance": "I1",
+      "patient": "PATIENT-ALPHA",
+      "study": "1.2.840.113619.2.55.3.604688.1",
+      "series": "1.2.840.113619.2.55.3.604688.2",
+      "instance": "1.2.840.113619.2.55.3.604688.3",
       "modality": "CT",
       "private": false
     },
     {
-      "patient": "P1",
-      "study": "ST1",
-      "series": "SE1",
-      "instance": "I2",
+      "patient": "PATIENT-ALPHA",
+      "study": "1.2.840.113619.2.55.3.604688.1",
+      "series": "1.2.840.113619.2.55.3.604688.2",
+      "instance": "1.2.840.113619.2.55.3.604688.4",
       "modality": "CT",
       "private": true
     }
