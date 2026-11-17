@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "allowed_modalities": ["CT", "MR"],
+  "allowed_protocols": ["PROTO-A"],
+  "protocol_modalities": {"PROTO-A": ["CT", "MR"]},
+  "private_tag_allowlist": [],
+  "pixel_policy": "metadata_only",
+  "allow_burned_in": false,
+  "allow_partial_scan": false
+}
